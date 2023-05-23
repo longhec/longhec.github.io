@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://longhec.github.io/post/first/</loc>
+    <loc>https://longhec.github.io/post/first/</loc>
     <lastmod>2023-05-23T11:32:29+08:00</lastmod>
   </url><url>
-    <loc>http://longhec.github.io/</loc>
+    <loc>https://longhec.github.io/</loc>
     <lastmod>2023-05-23T11:32:29+08:00</lastmod>
   </url><url>
-    <loc>http://longhec.github.io/post/</loc>
+    <loc>https://longhec.github.io/post/</loc>
     <lastmod>2023-05-23T11:32:29+08:00</lastmod>
   </url><url>
-    <loc>http://longhec.github.io/about/</loc>
+    <loc>https://longhec.github.io/about/</loc>
     <lastmod>2023-05-23T11:31:17+08:00</lastmod>
   </url><url>
-    <loc>http://longhec.github.io/categories/</loc>
+    <loc>https://longhec.github.io/categories/</loc>
   </url><url>
-    <loc>http://longhec.github.io/tags/</loc>
+    <loc>https://longhec.github.io/tags/</loc>
   </url>
 </urlset>
